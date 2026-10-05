@@ -1,5 +1,5 @@
-Abril Llamas Fenoll i Enxin Lina Wu
-============================================
+# Abril Llamas Fenoll i Enxin Lina Wu
+
 PAV - P2: detección de actividad vocal (VAD)
 ============================================
 
